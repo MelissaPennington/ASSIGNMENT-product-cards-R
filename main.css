@@ -1,0 +1,33 @@
+
+.card{
+  max-width: 300px;
+  margin:auto;
+  text-align: center;
+  border: 1px solid;
+  border-color: lightblue;
+}
+
+/* .card-image-top{
+  max-width: 40px 40px;
+} */
+
+
+.card-text {
+  justify-content: flex-end;
+}
+h6 {
+  background-color: gray;
+  color: yellow;
+  text-align: left;
+}
+h2 {
+  font-weight: bold;
+}
+
+h3 {
+  font-display: bold;
+}
+
+.ul {
+  font-weight: 700;
+}
