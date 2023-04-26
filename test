@@ -1,0 +1,21 @@
+function saysGoodLuckToUser(user) {
+  return `Good luck $(user)!`;
+}
+
+function saysBetterLuckNextTime(user) {
+  return `Better luck next time (user)`;
+}
+
+function createSaying(user, cb) {
+  return cb(user);
+}
+
+createSaying(`Pete, saysGoodLuckToUser`);
+createSaying(`Pete, saysBetterLuckNextTime`);
+
+const btn = document.getElementsById(`main-btn`);
+const whatIsTheId = (e) => {
+  return `The element ID is $(e.target.id)!`;
+}
+
+btn.addEventListener(`click`, whatIsTheId);
