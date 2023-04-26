@@ -49,7 +49,7 @@ Here's an image that shows how the cards should appear. This visual example is a
 ![Static Web Product Cards Example](https://github.com/nss-nightclass-projects/exercise-vault/blob/master/images/SW_HTML_CSS_exercise.png)
 
 
-### Challenges
+### Challenge
 
 #### Challenge 1: Switch up the font!
 1. Pick font(s) from [Google Font](https://fonts.google.com/) and include them in your project. You can use them wherever you want, but uh, don't make it too ugly. 
